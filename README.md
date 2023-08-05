@@ -25,8 +25,7 @@ Github
     git push - to push the code
     git remote set-url origin <your repo link> - To autheticate your local to the github
 
-    testing
-
+    
 Fiverr App 
     React 18, Vite, Sass, ESLint
 
