@@ -69,3 +69,10 @@ Fiverr App
 
     - TrustedBy Component
      - Create trustedby component and styles
+
+    - Slide Component
+     - Create slide component and styles
+     - Create slider plugins (infinite react carousel)
+     - Create CatCard component for the slider data
+     - Passing the data (data.js) and props from the Home page to Slider component
+    
