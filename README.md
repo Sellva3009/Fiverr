@@ -66,6 +66,7 @@ Fiverr App
      - Create featured component in the component folder
      - added required styles
      - added public/img folder
+     - Feature section with dark background
 
     - TrustedBy Component
      - Create trustedby component and styles
@@ -75,4 +76,8 @@ Fiverr App
      - Create slider plugins (infinite react carousel)
      - Create CatCard component for the slider data
      - Passing the data (data.js) and props from the Home page to Slider component
+     - Created projectSlider with styles
+    
+    - Footer
+     - Added content and styles
     
