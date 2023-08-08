@@ -62,7 +62,10 @@ Fiverr App
         - Create Layout function and assign outlet architecture and assign to root path in the createBrowserRouter method. Other routes will be there under children
       - useLocation method is used to navigate the pages based on the url
 
-    - Featured components  
+    - Featured component 
      - Create featured component in the component folder
      - added required styles
      - added public/img folder
+
+    - TrustedBy Component
+     - Create trustedby component and styles
