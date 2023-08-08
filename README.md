@@ -25,7 +25,6 @@ Github
     git push - to push the code
     git remote set-url origin <your repo link> - To autheticate your local to the github
 
-    
 Fiverr App 
     React 18, Vite, Sass, ESLint
 
@@ -64,5 +63,6 @@ Fiverr App
       - useLocation method is used to navigate the pages based on the url
 
     - Featured components  
-    
-
+     - Create featured component in the component folder
+     - added required styles
+     - added public/img folder
