@@ -80,4 +80,9 @@ Fiverr App
     
     - Footer
      - Added content and styles
-    
+
+    - Category page design
+     - Created gigCard component and applied the styles
+     - Edited the Gigs page and added the filter using the 'useState'
+     - added gigCard to the Gigs page
+       
