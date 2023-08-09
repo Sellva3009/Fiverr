@@ -85,4 +85,7 @@ Fiverr App
      - Created gigCard component and applied the styles
      - Edited the Gigs page and added the filter using the 'useState'
      - added gigCard to the Gigs page
+
+    - Product page design
+     - Created gig page and applied the styles
        
