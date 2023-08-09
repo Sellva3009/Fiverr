@@ -90,5 +90,8 @@ Fiverr App
      - Created gig page and applied the styles
 
     - Listpage design
-     - Created Gigs, order and messages and message pages and its styles
+     - Created Gigs, order, messages and message pages (chat page) and its styles
+
+    - Add New Product page
+     - Created new product page and its styles
        
